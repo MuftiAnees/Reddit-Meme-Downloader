@@ -9,4 +9,4 @@ If a meme is already present in the folder prior to running the code it is repla
 
 ## Disclaimer</br>
 
-I do not **think** that there is any danger of getting your account banned, ip Blocked etc. by using this piece of code, however, I will not be responsible for those if anything does happen.</br></br>
+I do not **think** that there is any danger of getting your account banned, ip blocked etc. by using this piece of code. However, I will not be responsible for those if anything does happen.</br></br>
